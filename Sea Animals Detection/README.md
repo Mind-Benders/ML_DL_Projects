@@ -13,7 +13,7 @@ The Animals in the Dataset are: Corals, Crabs, Dolphin, Eel, Jelly Fish, Lobster
 The dataset for this project is taken from the Kaggle. 
 Here is the link for the dataset: https://www.kaggle.com/datasets/vencerlanz09/sea-animals-image-dataste that was used.
 
-![Dataset Image](Images/Dataset.png)
+![Dataset Image](Images/dataset.png)
 
 
 ### What Have I Done?
