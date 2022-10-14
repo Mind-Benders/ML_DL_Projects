@@ -36,6 +36,11 @@ Here is the link for the dataset: https://www.kaggle.com/datasets/kingburrito666
 - numpy
 - sklearn
 
+### Some Visualizations
+![image](https://user-images.githubusercontent.com/87692393/195856563-d09cefed-e026-4789-a292-4855e97e1405.png)
+![image](https://user-images.githubusercontent.com/87692393/195856776-be852321-2362-4b02-a76e-a5a4f70f7a3f.png)
+![image](https://user-images.githubusercontent.com/87692393/195856663-cb99f547-69f8-471f-b6df-36d38bd528e9.png)
+
 ### Accuracies and Errors
 
 Model 1: Multiple Linear Regression model
