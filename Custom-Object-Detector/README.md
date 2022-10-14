@@ -53,3 +53,6 @@ Following are the training and validation accuracy and loss functions:
 
 ### And Voila! We have built a custom object detector successfully!
 
+### For more repos like this, you can take a look at my github [here](https://github.com/Adw8)
+### Thanks For Reading!
+### -Adwait Gharpure
