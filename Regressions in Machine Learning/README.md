@@ -5,8 +5,8 @@
 ### Problem Statement
 
 Build the Regression model which predicts Price of the Computer accurately by using features Speed, HD, Ram, CD, Screen, Premium, ADS, Trend, Multi, etc.
-- Categorical Features: Premium, ADS
-- Numerical Features: Speed, HD, Ram, CD, Screen, Trend, Multi 
+- Categorical Features: Premium, ADS, CD
+- Numerical Features: Speed, HD, Ram, Screen, Trend, Multi 
 
 ### Dataset
 
