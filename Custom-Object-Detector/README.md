@@ -8,10 +8,15 @@ Object detection is a computer vision technique that allows us to identify and l
 In this project, we will build a custom object detector using neural networks, and libraries like TensorFlow, Keras, and MatPlotLib. you can run this project on your local machine using Jupyter notebook, or use google colab.
 
 ## Installing and Importing Libraries
-When running the code, you might run into some issues, where your editor can't find the libraries that are used, in that case, you will need to install them using pip, Like this:
+Here are some of the Libraries we will be using:
 
-![image](https://user-images.githubusercontent.com/69599306/195856994-ea138689-73e3-4ae1-aecf-83c327bea0ce.png)
+Tensorflow
 
+Keras
+
+random
+
+Matplotlib
 
 ## Preparing our dataset
 For this project, I have collected my own dataset, consisting of two objects - 
@@ -38,7 +43,8 @@ If you do everything correctly, you can expect an output like this:
 
 ![image](https://user-images.githubusercontent.com/69599306/195854634-0ea90fb3-1d12-4c90-9503-86843419b564.png)
 
-## Training and Testing
+## Accuracy and Loss functions
+
 Following are the training and validation accuracy and loss functions:
 
 ![image](https://user-images.githubusercontent.com/69599306/195854672-8e8d2a65-2fa9-4b0a-8b13-3ceca0762b06.png)
