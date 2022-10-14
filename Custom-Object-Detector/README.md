@@ -25,6 +25,8 @@ and TVS_keys:
 ![image](https://user-images.githubusercontent.com/69599306/195852061-a3f8bc9b-0e1e-4a10-9e74-c531fe034d7c.png)
 ![image](https://user-images.githubusercontent.com/69599306/195853260-4242e82a-4c55-47b9-be41-c043350032b7.png)
 
+You can find my dataset [here](https://github.com/Adw8/Custom-Object-Detector).
+
 You can also get a dataset from kaggle like [this](https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset)
 
 Now, we will also need [LabelImg](https://github.com/heartexlabs/labelImg), a tool to annotate images, in order to prepare our dataset. You can find a tutorial for LabelImg [here](https://www.altisconsulting.com/insights/labelling-images-for-object-detection-with-labelimg/)
