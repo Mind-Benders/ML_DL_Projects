@@ -38,11 +38,14 @@ Here is the link for the dataset: https://www.kaggle.com/code/kashish2212/cluste
 - Matplotlib
 
 ### Some Visualizations
-
+![image](https://user-images.githubusercontent.com/87692393/196041418-101e741a-23ef-4440-aeac-dad685aa7b9b.png)
+![image](https://user-images.githubusercontent.com/87692393/196041433-65c9e21d-08da-4017-aa47-4d9123ddfa35.png)
+![image](https://user-images.githubusercontent.com/87692393/196041443-c004137b-5092-4ffe-85a5-3e1510f54e50.png)
+![image](https://user-images.githubusercontent.com/87692393/196041798-c1b6714b-da2b-4b3c-99db-c631756051c7.png)
 
 ## Conclusion
 
-From the above plot, We can conclude that we clustered the customers based on their features (i.e., payments, credit limits, etc.) and in future, anyone can apply other approaches such as hierarchical clustering to get optimal no of clusters
+From the above plot, We can conclude that we clustered the customers based on their features (i.e., payments, credit limits, etc.) and in future, anyone can apply other approaches such as hierarchical clustering to get optimal no of clusters.
 
 ### Author
 
