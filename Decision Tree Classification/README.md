@@ -57,7 +57,7 @@ number of major vessels (0-3) colored by flourosopy, thal: 0 = normal; 1 = fixed
 
 The dataset for this project is taken from the Kaggle. 
 
-Here is the link for the dataset: https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset that was used.
+Here is the link for the dataset: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset that was used.
 
 ### What Have I Done?
 
@@ -101,7 +101,7 @@ Given Features: UTC, Temperature[C], Humidity[%], TVOC[ppb], eCO2[ppm], Raw H2, 
 
 The dataset for this project is taken from the Kaggle. 
 
-Here is the link for the dataset: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset that was used.
+Here is the link for the dataset: https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset that was used.
 
 ### What Have I Done?
 
